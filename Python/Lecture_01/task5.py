@@ -11,6 +11,6 @@ import calendar
 
 year = input("Enter the Year: " )
 month = input("Enter the Month: ")
-
+#Store the Calender with W and L equal to 0 (Default Size)
 days = calendar.month(int(year),int(month),w=0,l=0)
 print(days)
