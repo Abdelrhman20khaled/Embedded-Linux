@@ -6,20 +6,13 @@ Task: Write a Python program to test whether a passed letter is a vowel or not
 By: Abdelrhman Khaled Sobhi
 
 '''
+#Receive the input from the user 
+my_char = input("Enter the character: ")
+#Put the Vowel String that we should serach the input char in it 
+Vowel_L = "aieou"
+#if the input char in 'aieou' or in 'AIEOU' it will print that is Vowel
+if (my_char in Vowel_L) or (my_char in Vowel_L.capitalize()):
+    print("Your Char is Vowel")
+else :
+    print("Your Char is not Vowel")   
 
-print("Enter the character:")
-my_char = input()
-flag = 1
-Vowel_L = ['A','E','I','O','U','a','e','i','o','u']
-
-for i in Vowel_L:
-    if my_char == i:
-        flag = 0
-        break
-    else:
-        flag = 1
-
-if flag == 0:
-    print("The Char Entered is Vowel")
-else:
-    print("The Char Entered is Not Vowel")

@@ -8,11 +8,14 @@ By: Abdelrhman Khaled Sobhi
 '''
 #include FavWebSites Module
 from FavWebSites import Google
+# define a conuter for the list
+index = 0
 #Write The Menu in List for more readable
 social_list = ['1- Facebook','2- LinkedIn','3- GitHub','4- Instagram']
-#loop on list to dispaly it    
-for i in range(len(social_list)): 
-    print(social_list[i])
+#Display the list in readable format
+#You can use this: print(social_list[index:4:1])   
+# but the readable format is this:
+print("\n".join(social_list))
 # Ask user to chose which link he needs to open
 ch = input("Enter the Number: ")
 # Check about thr char that user entered
