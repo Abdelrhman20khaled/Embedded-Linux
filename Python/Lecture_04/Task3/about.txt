@@ -1,0 +1,8 @@
+-My name is Andelrhman Khaled Sobhi.
+-I am an undergraduate student in Communication and Electronics Engineering at Shoubra 
+ Faculty of Engineering, Banha University. 
+-I have a strong passion for embedded systems, particularly bare-metal programming.
+ and I am currently studying embedded Linux.
+-Iam 22 years old.
+-I search for embedded internship.
+-Iam from Cairo, Egypt.
