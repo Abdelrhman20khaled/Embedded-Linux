@@ -35,8 +35,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 For any questions or inquiries, feel free to reach out:
 
 - **Name**: Abdelrhman Khaled Sobhi
-- **Email**: 
-- **LinkedIn**: 
+- **Email**: abdelrahmankh2025@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/abdelrahman-khaled-12a8b6242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
